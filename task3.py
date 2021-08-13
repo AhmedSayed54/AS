@@ -1,3 +1,4 @@
+#repository link: https://github.com/AhmedSayed54/AS
 
 numbers_list = [5, 26, 45, 32, 63, 74, 81, 120, 99, 54]
 print("The numbers from the list", numbers_list, "are divisible by 9:")
