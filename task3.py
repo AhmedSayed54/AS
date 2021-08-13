@@ -10,4 +10,4 @@ def div_by_9():
             print(sol)
 
 
-print(div_by_9())
+div_by_9()
